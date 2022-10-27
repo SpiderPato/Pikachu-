@@ -4,3 +4,5 @@ iniciando github
 lsita de componentes
 grfica
 tarjeta madre
+procesador
+memoria RAM
