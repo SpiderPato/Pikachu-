@@ -3,3 +3,6 @@ iniciando github
 
 procesador
 memoria RAM
+tarejata grafia
+trajeta madre
+ssd
